@@ -5,120 +5,120 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.200, 38.630]
+        "coordinates": [-90.2500, 38.6270]  // Saint Louis
       },
       "properties": {
-        "date": "2023-01-01",
+        "date": "2024-03-01",
+        "crimeType": "Vehicle Theft",
+        "details": "Car stolen near downtown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2700, 38.6100]  // Within Saint Louis
+      },
+      "properties": {
+        "date": "2024-03-02",
         "crimeType": "Burglary",
-        "details": "Residential burglary"
+        "details": "Break-in reported in the neighborhood"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.198, 38.628]
+        "coordinates": [-90.2800, 38.6400]  // Within Saint Louis
       },
       "properties": {
-        "date": "2023-02-15",
-        "crimeType": "Motor Theft",
-        "details": "Stolen car"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.196, 38.626]
-      },
-      "properties": {
-        "date": "2023-03-22",
+        "date": "2024-03-03",
         "crimeType": "Assault",
-        "details": "Physical altercation"
+        "details": "Physical altercation reported on a street"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.194, 38.624]
+        "coordinates": [-90.2600, 38.6550]  // Within Saint Louis
       },
       "properties": {
-        "date": "2023-04-10",
-        "crimeType": "Robbery",
-        "details": "Armed robbery"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.192, 38.622]
-      },
-      "properties": {
-        "date": "2023-05-05",
-        "crimeType": "Shooting",
-        "details": "Gunshot incident"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.190, 38.620]
-      },
-      "properties": {
-        "date": "2023-06-18",
+        "date": "2024-03-04",
         "crimeType": "Vandalism",
-        "details": "Property damage"
+        "details": "Property damage reported in a park"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.188, 38.618]
+        "coordinates": [-90.2350, 38.6300]  // Within Saint Louis
       },
       "properties": {
-        "date": "2023-07-30",
-        "crimeType": "Drug Offense",
-        "details": "Drug-related incident"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.186, 38.616]
-      },
-      "properties": {
-        "date": "2023-08-14",
+        "date": "2024-03-05",
         "crimeType": "Fraud",
-        "details": "Financial fraud"
+        "details": "Financial fraud reported in a commercial area"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.184, 38.614]
+        "coordinates": [-90.2650, 38.6450]  // Within Saint Louis
       },
       "properties": {
-        "date": "2023-09-25",
-        "crimeType": "Kidnapping",
-        "details": "Kidnapping incident"
+        "date": "2024-03-06",
+        "crimeType": "Robbery",
+        "details": "Street robbery reported in a neighborhood"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.182, 38.612]
+        "coordinates": [-90.2750, 38.6250]  // Within Saint Louis
       },
       "properties": {
-        "date": "2023-10-11",
+        "date": "2024-03-07",
+        "crimeType": "Drug Offense",
+        "details": "Drug-related incident reported on a street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2550, 38.6350]  // Within Saint Louis
+      },
+      "properties": {
+        "date": "2024-03-08",
         "crimeType": "Arson",
-        "details": "Arson case"
+        "details": "Arson reported in a residential area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2450, 38.6550]  // Within Saint Louis
+      },
+      "properties": {
+        "date": "2024-03-09",
+        "crimeType": "Homicide",
+        "details": "Fatal incident reported on a street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2900, 38.6200]  // Within Saint Louis
+      },
+      "properties": {
+        "date": "2024-03-10",
+        "crimeType": "Kidnapping",
+        "details": "Kidnapping reported in a park"
       }
     }
   ]

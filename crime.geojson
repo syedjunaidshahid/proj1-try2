@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.200, 38.630]
+      },
+      "properties": {
+        "date": "2023-01-01",
+        "crimeType": "Burglary",
+        "details": "Residential burglary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.198, 38.628]
+      },
+      "properties": {
+        "date": "2023-02-15",
+        "crimeType": "Motor Theft",
+        "details": "Stolen car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.196, 38.626]
+      },
+      "properties": {
+        "date": "2023-03-22",
+        "crimeType": "Assault",
+        "details": "Physical altercation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.194, 38.624]
+      },
+      "properties": {
+        "date": "2023-04-10",
+        "crimeType": "Robbery",
+        "details": "Armed robbery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.192, 38.622]
+      },
+      "properties": {
+        "date": "2023-05-05",
+        "crimeType": "Shooting",
+        "details": "Gunshot incident"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.190, 38.620]
+      },
+      "properties": {
+        "date": "2023-06-18",
+        "crimeType": "Vandalism",
+        "details": "Property damage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.188, 38.618]
+      },
+      "properties": {
+        "date": "2023-07-30",
+        "crimeType": "Drug Offense",
+        "details": "Drug-related incident"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.186, 38.616]
+      },
+      "properties": {
+        "date": "2023-08-14",
+        "crimeType": "Fraud",
+        "details": "Financial fraud"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.184, 38.614]
+      },
+      "properties": {
+        "date": "2023-09-25",
+        "crimeType": "Kidnapping",
+        "details": "Kidnapping incident"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.182, 38.612]
+      },
+      "properties": {
+        "date": "2023-10-11",
+        "crimeType": "Arson",
+        "details": "Arson case"
+      }
+    }
+  ]
+}
